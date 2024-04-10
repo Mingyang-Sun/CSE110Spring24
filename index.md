@@ -33,3 +33,8 @@ relative link: \
 - [ ] Task
 - [ ] List
 - [x] Example
+
+Picture:
+
+![A Screenshot](./screenshots/lab1-part2.png)
+
